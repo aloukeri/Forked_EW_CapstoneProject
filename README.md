@@ -1,6 +1,7 @@
 ### IBM AI Enterprise Workflow - AI in Production - Capstone Project
 
 Forecasting AAVAIL revenue for the next 30 days
+
 More info: https://github.com/aavail/ai-workflow-capstone
 
 ### Main Parts
